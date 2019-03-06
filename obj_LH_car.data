@@ -1,0 +1,5 @@
+classes= 5  
+train  = train_car.txt 
+valid  = test_car.txt
+names = obj_LH_car.names  
+backup = backup/ 
