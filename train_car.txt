@@ -125,7 +125,6 @@
 /content/darknet/Dataset/Car/BMW_54.jpg
 /content/darknet/Dataset/Car/BMW_11.jpg
 /content/darknet/Dataset/Car/BMW_67.jpg
-/content/darknet/Dataset/Car/BMW_94.jpg
 /content/darknet/Dataset/Car/BMW_75.jpg
 /content/darknet/Dataset/Car/BMW_21.jpg
 /content/darknet/Dataset/Car/BMW_73.jpg
@@ -173,7 +172,6 @@
 /content/darknet/Dataset/Car/Mercedes_16.jpg
 /content/darknet/Dataset/Car/Mercedes_93.jpg
 /content/darknet/Dataset/Car/Mercedes_3.jpg
-/content/darknet/Dataset/Car/Mercedes_94.jpg
 /content/darknet/Dataset/Car/Mercedes_20.jpg
 /content/darknet/Dataset/Car/Mercedes_34.jpg
 /content/darknet/Dataset/Car/Mercedes_86.jpg
@@ -195,7 +193,6 @@
 /content/darknet/Dataset/Car/Mercedes_78.jpg
 /content/darknet/Dataset/Car/Mercedes_13.jpg
 /content/darknet/Dataset/Car/Mercedes_21.jpg
-/content/darknet/Dataset/Car/Mercedes_11.jpg
 /content/darknet/Dataset/Car/Mercedes_97.jpg
 /content/darknet/Dataset/Car/Mercedes_88.jpg
 /content/darknet/Dataset/Car/Mercedes_53.jpg
@@ -204,7 +201,6 @@
 /content/darknet/Dataset/Car/Mercedes_70.jpg
 /content/darknet/Dataset/Car/Mercedes_30.jpg
 /content/darknet/Dataset/Car/Mercedes_31.jpg
-/content/darknet/Dataset/Car/Mercedes_81.jpg
 /content/darknet/Dataset/Car/Mercedes_43.jpg
 /content/darknet/Dataset/Car/Mercedes_5.jpg
 /content/darknet/Dataset/Car/Mercedes_51.jpg
@@ -235,7 +231,6 @@
 /content/darknet/Dataset/Car/Mercedes_55.jpg
 /content/darknet/Dataset/Car/Mercedes_84.jpg
 /content/darknet/Dataset/Car/Mercedes_9.jpg
-/content/darknet/Dataset/Car/Mercedes_7.jpg
 /content/darknet/Dataset/Car/Mercedes_75.jpg
 /content/darknet/Dataset/Car/Mercedes_38.jpg
 /content/darknet/Dataset/Car/Mercedes_77.jpg
@@ -263,13 +258,10 @@
 /content/darknet/Dataset/Car/VW_37.jpg
 /content/darknet/Dataset/Car/VW_3.jpg
 /content/darknet/Dataset/Car/VW_91.jpg
-/content/darknet/Dataset/Car/VW_41.6
 /content/darknet/Dataset/Car/VW_42.jpg
 /content/darknet/Dataset/Car/VW_9.jpg
 /content/darknet/Dataset/Car/VW_77.jpg
 /content/darknet/Dataset/Car/VW_51.jpg
-/content/darknet/Dataset/Car/VW_73.jpg
-/content/darknet/Dataset/Car/VW_87.jpg
 /content/darknet/Dataset/Car/VW_58.jpg
 /content/darknet/Dataset/Car/VW_84.jpg
 /content/darknet/Dataset/Car/VW_74.jpg
@@ -285,10 +277,8 @@
 /content/darknet/Dataset/Car/VW_22.jpg
 /content/darknet/Dataset/Car/VW_18.jpg
 /content/darknet/Dataset/Car/VW_97.jpg
-/content/darknet/Dataset/Car/VW_19._
 /content/darknet/Dataset/Car/VW_62.jpg
 /content/darknet/Dataset/Car/VW_11.jpg
-/content/darknet/Dataset/Car/VW_75.bild
 /content/darknet/Dataset/Car/VW_29.jpg
 /content/darknet/Dataset/Car/VW_82.jpg
 /content/darknet/Dataset/Car/VW_24.jpg
@@ -299,11 +289,8 @@
 /content/darknet/Dataset/Car/VW_52.jpg
 /content/darknet/Dataset/Car/VW_57.jpg
 /content/darknet/Dataset/Car/VW_55.jpg
-/content/darknet/Dataset/Car/VW_10.4
 /content/darknet/Dataset/Car/VW_85.jpg
 /content/darknet/Dataset/Car/VW_72.jpg
-/content/darknet/Dataset/Car/VW_88.bild
-/content/darknet/Dataset/Car/VW_17.bild
 /content/darknet/Dataset/Car/VW_61.jpg
 /content/darknet/Dataset/Car/VW_33.jpg
 /content/darknet/Dataset/Car/VW_4.jpg
