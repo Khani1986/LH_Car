@@ -134,7 +134,6 @@
 /content/darknet/Dataset/Car/BMW_53.jpg
 /content/darknet/Dataset/Car/BMW_61.jpg
 /content/darknet/Dataset/Car/BMW_16.jpg
-/content/darknet/Dataset/Car/BMW_22.jpg
 /content/darknet/Dataset/Car/BMW_88.jpg
 /content/darknet/Dataset/Car/BMW_65.jpg
 /content/darknet/Dataset/Car/BMW_18.jpg
